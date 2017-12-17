@@ -1,0 +1,27 @@
+12:24:42,460 DEBUG main CommandFactory:invoke:20 - Stack before: Stack null
+12:27:27,224 DEBUG main CommandFactory:invoke:20 - Stack before: Stack null
+12:27:27,224 DEBUG main CommandFactory:invoke:28 - Stack after: Stack null
+12:27:36,521 DEBUG main CommandFactory:invoke:20 - Stack before: Stack null
+12:27:36,552 DEBUG main CommandFactory:invoke:30 - Stack after: 4.0
+12:27:49,126 DEBUG main CommandFactory:invoke:22 - Stack before: 4.0
+12:27:49,188 DEBUG main CommandFactory:invoke:30 - Stack after: 4.0
+13:16:44,635 DEBUG main CommandFactory:invoke:20 - Stack before: Stack null
+13:16:44,681 DEBUG main CommandFactory:invoke:27 - [Ljava.lang.String;@169b07b
+13:16:44,681 DEBUG main CommandFactory:invoke:28 - {a=4.0}
+13:16:44,697 DEBUG main CommandFactory:invoke:31 - Stack after: Stack null
+13:17:09,064 DEBUG main CommandFactory:invoke:20 - Stack before: Stack null
+13:17:09,064 DEBUG main CommandFactory:invoke:27 - [Ljava.lang.String;@183da3f
+13:17:09,064 DEBUG main CommandFactory:invoke:28 - {a=4.0}
+13:17:09,064 DEBUG main CommandFactory:invoke:33 - Stack after: 4.0
+13:18:23,309 DEBUG main CommandFactory:invoke:20 - Stack before: Stack null
+13:18:23,309 DEBUG main CommandFactory:invoke:27 - [Ljava.lang.String;@169b07b
+13:18:23,309 DEBUG main CommandFactory:invoke:28 - {a=4.0}
+13:18:23,309 DEBUG main CommandFactory:invoke:31 - Stack after: Stack null
+13:18:27,412 DEBUG main CommandFactory:invoke:20 - Stack before: Stack null
+13:18:27,412 DEBUG main CommandFactory:invoke:27 - [Ljava.lang.String;@183da3f
+13:18:27,412 DEBUG main CommandFactory:invoke:28 - {a=4.0}
+13:18:27,412 DEBUG main CommandFactory:invoke:33 - Stack after: 4.0
+13:18:33,714 DEBUG main CommandFactory:invoke:22 - Stack before: 4.0
+13:18:33,714 DEBUG main CommandFactory:invoke:27 - [Ljava.lang.String;@3df479
+13:18:33,714 DEBUG main CommandFactory:invoke:28 - {a=4.0}
+13:18:33,714 DEBUG main CommandFactory:invoke:33 - Stack after: 4.0

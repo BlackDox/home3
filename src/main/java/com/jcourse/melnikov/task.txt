@@ -1,0 +1,23 @@
+DEFINE a 1
+DEFINE b 8
+DEFINE c 2
+PUSH b
+-
+PUSH b
+PUSH b
+*
+DEFINE const 4
+PUSH const
+PUSH a
+PUSH c
+*
+*
+-
+SQRT
++
+DEFINE const 2
+PUSH const
+PUSH a
+*
+/
+PRINT
